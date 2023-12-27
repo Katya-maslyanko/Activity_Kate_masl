@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_text">Введите текст</string>
+    <string name="enter_phone">Введите номер телефона</string>
+    <string name="enter_btn">Отправить текст</string>
+    <string name="phone_btn">Сделать звонок</string>
+    <string name="text_view">TextView</string>
+</resources>
